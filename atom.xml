@@ -52,21 +52,43 @@
     <published>2022-12-28T22:04:36.000Z</published>
     <updated>2022-12-28T09:17:02.733Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="b">b</h2><p>给士大夫敢死队风格撒旦发个顺丰山东分公司公司的华盛顿峰会速度发货速度函数的函数是</p><img src="/2022/12/29/My-New-Post/logo-1672219015284-1.png" class="">]]></content>
+    <content type="html"><![CDATA[<h2 id="b"><a href="#b" class="headerlink" title="b"></a>b</h2><p>给士大夫敢死队风格撒旦发个顺丰山东分公司公司的华盛顿峰会速度发货速度函数的函数是</p><img src="/2022/12/29/My-New-Post/logo-1672219015284-1.png" class="">]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;b&quot;&gt;b&lt;/h2&gt;
-&lt;p&gt;给士大夫敢死队风格撒旦发个顺丰山东分公司公司的华盛顿峰会速度发货速度函数的函数是&lt;/p&gt;
-&lt;img src=&quot;/2022/12/29/My-New-Post/logo-1672219015284-1.png&quot; class=&quot;&quot;&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;b&quot;&gt;&lt;a href=&quot;#b&quot; class=&quot;headerlink&quot; title=&quot;b&quot;&gt;&lt;/a&gt;b&lt;/h2&gt;&lt;p&gt;给士大夫敢死队风格撒旦发个顺丰山东分公司公司的华盛顿峰会速度发货速度函数的函数是&lt;/p&gt;
+&lt;img src=&quot;/2022/12/29/My-New-</summary>
       
     
     
     
     
     <category term="标签" scheme="https://www.pooh.xyz/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://www.pooh.xyz/2022/12/28/%E6%96%87%E7%AB%A0/"/>
+    <id>https://www.pooh.xyz/2022/12/28/%E6%96%87%E7%AB%A0/</id>
+    <published>2022-12-28T03:53:43.000Z</published>
+    <updated>2022-12-28T11:28:52.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h3 id="changes">changes</h3><img src="%E6%96%87%E7%AB%A0/sichouzhiluhuaxuechang.jpg" style="zoom: 25%;" />]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="web前端" scheme="https://www.pooh.xyz/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="hello word" scheme="https://www.pooh.xyz/tags/hello-word/"/>
     
   </entry>
   
