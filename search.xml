@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My New Post</title>
+    <url>/2022/12/29/My-New-Post/</url>
+    <content><![CDATA[<h2 id="bash"><a href="#bash" class="headerlink" title="bash"></a>bash</h2>]]></content>
+      <tags>
+        <tag>标签</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>文章</title>
     <url>/2022/12/28/%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -24,14 +32,6 @@
       </categories>
       <tags>
         <tag>hello word</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My New Post</title>
-    <url>/2022/12/29/My-New-Post/</url>
-    <content><![CDATA[<h2 id="bash"><a href="#bash" class="headerlink" title="bash"></a>bash</h2>]]></content>
-      <tags>
-        <tag>标签</tag>
       </tags>
   </entry>
   <entry>
