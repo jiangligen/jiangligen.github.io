@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pooh.xyz/papers/index.html</loc>
+    <loc>https://www.pooh.xyz/project/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/activitys/index.html</loc>
+    <loc>https://www.pooh.xyz/paper/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/projects/index.html</loc>
+    <loc>https://www.pooh.xyz/activity/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     

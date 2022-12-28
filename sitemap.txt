@@ -1,6 +1,6 @@
-https://www.pooh.xyz/papers/index.html
-https://www.pooh.xyz/activitys/index.html
-https://www.pooh.xyz/projects/index.html
+https://www.pooh.xyz/project/index.html
+https://www.pooh.xyz/paper/index.html
+https://www.pooh.xyz/activity/index.html
 https://www.pooh.xyz/links/index.html
 https://www.pooh.xyz/search/index.html
 https://www.pooh.xyz/2022/12/29/My-New-Post/
