@@ -6,7 +6,7 @@
   <link href="https://www.pooh.xyz/atom.xml" rel="self"/>
   
   <link href="https://www.pooh.xyz/"/>
-  <updated>2022-12-28T09:17:02.733Z</updated>
+  <updated>2022-12-28T10:59:25.921Z</updated>
   <id>https://www.pooh.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试页面</title>
+    <link href="https://www.pooh.xyz/2022/12/29/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/"/>
+    <id>https://www.pooh.xyz/2022/12/29/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</id>
+    <published>2022-12-28T23:54:46.000Z</published>
+    <updated>2022-12-28T10:59:25.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一篇测试文章。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="web前端" scheme="https://www.pooh.xyz/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="jQuery" scheme="https://www.pooh.xyz/tags/jQuery/"/>
+    
+    <category term="表格" scheme="https://www.pooh.xyz/tags/%E8%A1%A8%E6%A0%BC/"/>
+    
+    <category term="表单验证" scheme="https://www.pooh.xyz/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
