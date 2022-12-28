@@ -7,8 +7,8 @@ https://www.pooh.xyz/tags/index.html
 https://www.pooh.xyz/categories/index.html
 https://www.pooh.xyz/
 https://www.pooh.xyz/tags/%E6%A0%87%E7%AD%BE/
-https://www.pooh.xyz/tags/hello-word/
 https://www.pooh.xyz/tags/jQuery/
 https://www.pooh.xyz/tags/%E8%A1%A8%E6%A0%BC/
 https://www.pooh.xyz/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/
+https://www.pooh.xyz/tags/hello-word/
 https://www.pooh.xyz/categories/web%E5%89%8D%E7%AB%AF/
