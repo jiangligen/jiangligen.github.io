@@ -15,13 +15,13 @@
   
 
   
-    <meta name="description" content="Links" />
+    <meta name="description" content="Blogrol" />
   
   
   
   <link rel="icon" type="image/x-icon" href="/images/footer-logo.png">
   
-  <title>Links [ Pooh ]</title>
+  <title>Blogrol [ Pooh ]</title>
   
     <!-- stylesheets list from config.yml -->
     
@@ -110,7 +110,43 @@
   </header>
   <div class="post-content">
     
-        
+        <section class="post page archives">
+  <h3 class="archive-year-wrap">友情链接</h3>
+  <div class="archives">
+    
+      <div class="archive">
+        <a class="post-go" target="_blank" style="color:#202020" href="https://www.ligen.net">
+          小宽网&nbsp;&nbsp;<span class="date" style="text-transform:none;font-size:14px;">https://www.ligen.net</span>
+        </a>
+      </div>
+    
+      <div class="archive">
+        <a class="post-go" target="_blank" style="color:#202020" href="https://www.hanhan.xyz">
+          憨憨在线&nbsp;&nbsp;<span class="date" style="text-transform:none;font-size:14px;">https://www.hanhan.xyz</span>
+        </a>
+      </div>
+    
+    <p style="color:#999;font-size:14px;margin-top: 30px;">不定期清理访问不了的链接，误删请联系我.申请友链请发邮件至f00y1n9+gmail.com</p>
+  </div>
+</section>
+
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <div id="gitalk-container"></div>
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script type="text/javascript">
+        var gitalk = new Gitalk({
+            clientID: '1ac1c7a816ad9a377aff',
+            clientSecret: '606d0402f16cce04f143fe8ff12fdca3056cc586',
+            id: window.location.pathname,
+            repo: 'jiangligen.github.io',
+            owner: 'jiangligen',
+            admin: 'jiangligen'
+        })
+        gitalk.render('gitalk-container')
+    </script>
+
+
+
       
   </div>
 </article>
