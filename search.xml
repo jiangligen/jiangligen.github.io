@@ -2,10 +2,11 @@
 <search>
   <entry>
     <title>bash</title>
-    <url>/2022/12/29/My-New-Post/</url>
+    <url>/My-New-Post/</url>
     <content><![CDATA[<p>企业安全建设中，安全风险就像是蝴蝶效应，它虽然不会像多米诺骨牌一样瞬间将企业安全全盘推倒，但却会持续散发影响力。随着网络环境与攻击方式的复杂性，传统查缺补漏式的安全建设模式无法有效应对安全风险，单一、单点的安全防护更是非常滞后。</p>
 <p>在此背景下，最佳的选择便是将安全贯穿于企业业务生命周期的每一个环节，从源头及时治理安全问题，真正走出企业安全建设的“囚徒困境”，这便是引入DevSecOps的原因。</p>
 <span id="more"></span>
+
 <p>DevSecOps作为安全领域中逐渐步入成熟期的技术体系，从最初的理念到如今少量的成功实践案例，中间经历了大量的探索与发展。如今，很多企业已经意识到DevSecOps的重要性并想要有所实践，但仍然面临大量挑战。</p>
 ]]></content>
       <tags>
@@ -14,23 +15,22 @@
   </entry>
   <entry>
     <title>文章</title>
-    <url>/2022/12/28/%E6%96%87%E7%AB%A0/</url>
+    <url>/%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<h3 id="changes">changes</h3>
-<img src="/2022/12/28/%E6%96%87%E7%AB%A0/jiucheng.jpg" class="">
+<h3 id="changes"><a href="#changes" class="headerlink" title="changes"></a>changes</h3><img src="/%E6%96%87%E7%AB%A0/jiucheng.jpg" class="">
+
 ]]></content>
       <categories>
         <category>web前端</category>
@@ -41,7 +41,7 @@
   </entry>
   <entry>
     <title>测试页面</title>
-    <url>/2022/12/29/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</url>
+    <url>/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</url>
     <content><![CDATA[<p>这是一篇测试文章。</p>
 ]]></content>
       <categories>
