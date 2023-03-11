@@ -1,3 +1,4 @@
+https://www.pooh.xyz/%E5%9B%9E%E9%A1%BE2022%E5%B9%B4/
 https://www.pooh.xyz/links/index.html
 https://www.pooh.xyz/My-New-Post/
 https://www.pooh.xyz/Welcome%20to%20Hexo/
@@ -14,4 +15,6 @@ https://www.pooh.xyz/tags/jQuery/
 https://www.pooh.xyz/tags/%E8%A1%A8%E6%A0%BC/
 https://www.pooh.xyz/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/
 https://www.pooh.xyz/tags/hello-word/
+https://www.pooh.xyz/tags/2022/
+https://www.pooh.xyz/tags/%E5%9B%9E%E9%A1%BE/
 https://www.pooh.xyz/categories/web%E5%89%8D%E7%AB%AF/
