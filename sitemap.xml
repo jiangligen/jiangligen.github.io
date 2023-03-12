@@ -47,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/project/index.html</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.pooh.xyz/paper/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
@@ -103,7 +94,7 @@
 
   <url>
     <loc>https://www.pooh.xyz/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,49 +102,49 @@
   
   <url>
     <loc>https://www.pooh.xyz/tags/%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.pooh.xyz/tags/jQuery/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.pooh.xyz/tags/%E8%A1%A8%E6%A0%BC/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.pooh.xyz/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.pooh.xyz/tags/hello-word/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.pooh.xyz/tags/2022/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.pooh.xyz/tags/%E5%9B%9E%E9%A1%BE/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -162,7 +153,7 @@
   
   <url>
     <loc>https://www.pooh.xyz/categories/web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
