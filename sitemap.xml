@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pooh.xyz/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
+    <loc>https://www.ligen.net/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
     
     <lastmod>2023-03-19</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/project/index.html</loc>
+    <loc>https://www.ligen.net/project/index.html</loc>
     
     <lastmod>2023-03-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/links/index.html</loc>
+    <loc>https://www.ligen.net/links/index.html</loc>
     
     <lastmod>2022-12-29</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/paper/index.html</loc>
+    <loc>https://www.ligen.net/paper/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/activity/index.html</loc>
+    <loc>https://www.ligen.net/activity/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/search/index.html</loc>
+    <loc>https://www.ligen.net/search/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/tags/index.html</loc>
+    <loc>https://www.ligen.net/tags/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/categories/index.html</loc>
+    <loc>https://www.ligen.net/categories/index.html</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>https://www.pooh.xyz/</loc>
+    <loc>https://www.ligen.net/</loc>
     <lastmod>2023-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,7 +83,7 @@
 
   
   <url>
-    <loc>https://www.pooh.xyz/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
+    <loc>https://www.ligen.net/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
     <lastmod>2023-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -92,7 +92,7 @@
 
   
   <url>
-    <loc>https://www.pooh.xyz/categories/%E8%AE%B0%E4%BA%8B/</loc>
+    <loc>https://www.ligen.net/categories/%E8%AE%B0%E4%BA%8B/</loc>
     <lastmod>2023-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

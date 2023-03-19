@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Pooh</title>
+  <title>小宽博客</title>
   
+  <subtitle>受了教训，得了书经的指引</subtitle>
+  <link href="https://www.ligen.net/atom.xml" rel="self"/>
   
-  <link href="https://www.pooh.xyz/atom.xml" rel="self"/>
-  
-  <link href="https://www.pooh.xyz/"/>
+  <link href="https://www.ligen.net/"/>
   <updated>2023-03-19T09:45:58.617Z</updated>
-  <id>https://www.pooh.xyz/</id>
+  <id>https://www.ligen.net/</id>
   
   <author>
-    <name>Pooh</name>
+    <name>Ligen</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>博客搬家</title>
-    <link href="https://www.pooh.xyz/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/"/>
-    <id>https://www.pooh.xyz/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</id>
+    <link href="https://www.ligen.net/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/"/>
+    <id>https://www.ligen.net/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</id>
     <published>2023-03-12T02:28:44.000Z</published>
     <updated>2023-03-19T09:45:58.617Z</updated>
     
@@ -36,10 +36,10 @@
     
     
     
-    <category term="记事" scheme="https://www.pooh.xyz/categories/%E8%AE%B0%E4%BA%8B/"/>
+    <category term="记事" scheme="https://www.ligen.net/categories/%E8%AE%B0%E4%BA%8B/"/>
     
     
-    <category term="博客搬家" scheme="https://www.pooh.xyz/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/"/>
+    <category term="博客搬家" scheme="https://www.ligen.net/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/"/>
     
   </entry>
   
