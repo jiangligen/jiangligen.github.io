@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.pooh.xyz/project/index.html</loc>
+    <loc>https://www.pooh.xyz/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
     
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.pooh.xyz/%E5%9B%9E%E9%A1%BE2022%E5%B9%B4/</loc>
+    <loc>https://www.pooh.xyz/project/index.html</loc>
     
-    <lastmod>2023-03-11</lastmod>
+    <lastmod>2023-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,14 +83,7 @@
 
   
   <url>
-    <loc>https://www.pooh.xyz/tags/2022/</loc>
-    <lastmod>2023-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.pooh.xyz/tags/%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://www.pooh.xyz/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
     <lastmod>2023-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -99,7 +92,7 @@
 
   
   <url>
-    <loc>https://www.pooh.xyz/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://www.pooh.xyz/categories/%E8%AE%B0%E4%BA%8B/</loc>
     <lastmod>2023-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
