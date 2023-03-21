@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LIGEN</title>
   
-  <subtitle>https://www.ligen.net</subtitle>
+  
   <link href="https://www.ligen.net/atom.xml" rel="self"/>
   
   <link href="https://www.ligen.net/"/>
