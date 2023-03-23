@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>博客搬家</title>
-    <url>/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</url>
-    <content><![CDATA[<p>接上级通知，之前的网站因为存在漏洞无法继续运行，现已关闭。</p>
-<p>新的站点处于建设中，博客内容迁移需要时间。请稍后访问。</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>记事</category>
-      </categories>
-      <tags>
-        <tag>博客搬家</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>旅行</title>
     <url>/%E6%97%85%E8%A1%8C/</url>
     <content><![CDATA[<p>有很长的一段旅行，是当我踏上由重庆发往昆明的那趟火车，在云南停留的那十年。</p>
@@ -28,6 +14,20 @@
       </categories>
       <tags>
         <tag>旅行</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客搬家</title>
+    <url>/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</url>
+    <content><![CDATA[<p>接上级通知，之前的网站因为存在漏洞无法继续运行，现已关闭。</p>
+<p>新的站点处于建设中，博客内容迁移需要时间。请稍后访问。</p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+      <tags>
+        <tag>博客搬家</tag>
       </tags>
   </entry>
   <entry>
