@@ -160,14 +160,14 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
+    <loc>https://www.ligen.net/tags/%E5%8D%A2%E5%B0%8F%E5%88%9A/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E5%8D%A2%E5%B0%8F%E5%88%9A/</loc>
+    <loc>https://www.ligen.net/tags/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -188,13 +188,6 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2024-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ligen.net/tags/%E6%98%A5%E6%AD%A6%E9%87%8C/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -209,7 +202,7 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E7%94%9F%E5%AD%98%E6%84%8F%E4%B9%89/</loc>
+    <loc>https://www.ligen.net/tags/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -224,6 +217,13 @@
   
   <url>
     <loc>https://www.ligen.net/tags/%E5%90%90%E9%B2%81%E7%95%AA/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/%E7%94%9F%E5%AD%98%E6%84%8F%E4%B9%89/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
