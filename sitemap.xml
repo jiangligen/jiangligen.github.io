@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ligen.net/Cool%20Chen%20%E5%8E%9F%E5%88%9B%E5%8D%95%E6%9B%B2%E3%80%8A%E4%BD%A0%E3%80%8B/</loc>
+    
+    <lastmod>2024-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.ligen.net/%E6%97%85%E8%A1%8C/</loc>
     
     <lastmod>2024-04-25</lastmod>
@@ -146,6 +155,13 @@
 
   
   <url>
+    <loc>https://www.ligen.net/tags/Cool-Chen/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.ligen.net/tags/%E4%B8%AD%E7%A7%8B%E8%8A%82%E4%B9%98%E8%BD%A6/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,13 +204,6 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2024-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ligen.net/tags/%E6%98%A5%E6%AD%A6%E9%87%8C/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -203,6 +212,20 @@
   
   <url>
     <loc>https://www.ligen.net/tags/Thailand-Chonburi/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/%E7%94%9F%E5%AD%98%E6%84%8F%E4%B9%89/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -222,14 +245,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://www.ligen.net/tags/%E7%94%9F%E5%AD%98%E6%84%8F%E4%B9%89/</loc>
+    <loc>https://www.ligen.net/categories/%E5%8E%9F%E5%88%9B/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://www.ligen.net/categories/%E8%AE%B0%E4%BA%8B/</loc>
