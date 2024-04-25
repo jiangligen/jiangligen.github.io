@@ -202,20 +202,6 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E8%91%A1%E8%90%84%E6%B2%9F/</loc>
-    <lastmod>2024-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ligen.net/tags/%E5%90%90%E9%B2%81%E7%95%AA/</loc>
-    <lastmod>2024-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ligen.net/tags/%E6%98%A5%E6%AD%A6%E9%87%8C/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,6 +210,20 @@
   
   <url>
     <loc>https://www.ligen.net/tags/Thailand-Chonburi/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/%E8%91%A1%E8%90%84%E6%B2%9F/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/%E5%90%90%E9%B2%81%E7%95%AA/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
