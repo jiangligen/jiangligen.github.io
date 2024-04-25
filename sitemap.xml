@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ligen.net/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/</loc>
+    
+    <lastmod>2024-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.ligen.net/%E6%98%A5%E6%AD%A6%E9%87%8C%E7%9A%84%E5%82%8D%E6%99%9A/</loc>
     
     <lastmod>2024-04-25</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://www.ligen.net/%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%8D%88%E9%A5%AD/</loc>
     
     <lastmod>2024-01-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ligen.net/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/</loc>
-    
-    <lastmod>2023-05-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -160,7 +160,7 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/</loc>
+    <loc>https://www.ligen.net/tags/%E7%94%9F%E5%AD%98%E6%84%8F%E4%B9%89/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
