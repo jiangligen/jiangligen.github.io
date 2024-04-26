@@ -26,20 +26,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客搬家</title>
-    <url>/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</url>
-    <content><![CDATA[<p>接上级通知，之前的网站因托管在国内服务器上，存在漏洞无法继续运行，现已关闭。</p>
-<p>博客内容迁移中。</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>记事</category>
-      </categories>
-      <tags>
-        <tag>博客搬家</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>一次乘车</title>
     <url>/%E4%B8%80%E6%AC%A1%E4%B9%98%E8%BD%A6/</url>
     <content><![CDATA[<p>因为没有赶上火车，我只能从螺蛳湾转车去西部客运站，然后乘大巴去楚雄。</p>
@@ -53,6 +39,20 @@
       <tags>
         <tag>中秋节乘车</tag>
         <tag>楚雄</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客搬家</title>
+    <url>/%E5%8D%9A%E5%AE%A2%E6%90%AC%E5%AE%B6/</url>
+    <content><![CDATA[<p>接上级通知，之前的网站因托管在国内服务器上，存在漏洞无法继续运行，现已关闭。</p>
+<p>博客内容迁移中。</p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+      <tags>
+        <tag>博客搬家</tag>
       </tags>
   </entry>
   <entry>
