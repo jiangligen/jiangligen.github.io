@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ligen.net/gallery/baby.html</loc>
+    
+    <lastmod>2024-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/gallery/index.html</loc>
+    
+    <lastmod>2024-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.ligen.net/%E6%97%85%E8%A1%8C/</loc>
     
     <lastmod>2024-04-26</lastmod>
@@ -229,20 +247,6 @@
   </url>
   
   <url>
-    <loc>https://www.ligen.net/tags/%E6%98%A5%E6%AD%A6%E9%87%8C/</loc>
-    <lastmod>2024-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ligen.net/tags/Thailand-Chonburi/</loc>
-    <lastmod>2024-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ligen.net/tags/%E7%B2%AA%E8%8D%89%E5%BD%93%E8%87%AA%E5%BC%BA/</loc>
     <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,6 +255,20 @@
   
   <url>
     <loc>https://www.ligen.net/tags/%E7%83%A7%E5%8C%85%E8%B0%B7/</loc>
+    <lastmod>2024-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/%E6%98%A5%E6%AD%A6%E9%87%8C/</loc>
+    <lastmod>2024-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ligen.net/tags/Thailand-Chonburi/</loc>
     <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
